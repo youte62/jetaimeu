@@ -1,0 +1,5 @@
+AuthUserFile /home/jetaime/www/stats/.htpasswd
+AuthGroupFile /dev/null
+AuthName "Statistiques"
+AuthType Basic
+Require valid-user

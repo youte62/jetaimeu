@@ -1,0 +1,779 @@
+# Webalizer V2.21-02 Incremental Data - 02/18/2017 23:59:42
+2017 2 18 23 59 42
+438 266 182 3 17 26 1110332 234 176 0
+9 1 32 1 18
+18 11 24699 10 9 6
+16 9 21032 11 11 7
+30 22 144462 19 16 13
+33 21 45271 23 17 14
+34 20 44756 21 17 13
+31 23 51256 23 22 19
+28 18 39000 19 15 11
+28 15 35173 19 17 13
+14 12 26722 9 12 9
+11 10 21629 7 9 6
+22 13 29947 13 13 10
+18 6 15641 11 6 6
+16 10 22955 11 10 7
+24 17 36317 16 13 10
+28 15 34198 12 13 10
+24 12 27847 14 11 8
+51 26 475000 14 17 9
+12 6 14427 9 6 5
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+11 7 14869 5
+17 10 20962 7
+22 12 26145 9
+5 2 5232 2
+1 1 2144 1
+7 4 9499 4
+14 8 18340 8
+7 4 9488 6
+11 5 11331 4
+12 7 14766 5
+12 5 11787 6
+38 17 455195 9
+7 6 12678 5
+2 1 2328 1
+12 7 11439 6
+38 26 57288 26
+81 58 132182 58
+38 17 41406 17
+19 13 27238 10
+28 17 38997 16
+16 11 23960 9
+12 10 20595 7
+16 11 127040 7
+12 7 15423 6
+0
+0
+0
+266
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+172
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+# -urls- 
+/
+0 229 0 493716 174 63
+/image/jetaim.png
+1 5 0 532330 0 0
+/css/youte.css
+0 32 0 48480 0 0
+# End Of Table - urls
+# -sites- (monthly)
+crawl-66-249-76-88.googlebot.com
+0 1 1 1515 0 0
+-
+msnbot-157-55-39-144.search.msn.com
+0 1 1 2156 1 1486050997
+/
+msnbot-40-77-167-34.search.msn.com
+0 1 1 1515 0 0
+-
+msnbot-207-46-13-199.search.msn.com
+0 4 0 832 0 0
+-
+baiduspider-180-76-15-160.crawl.baidu.com
+0 1 1 1515 0 0
+-
+msnbot-40-77-167-43.search.msn.com
+0 3 3 6420 1 1485972167
+/
+crawl-66-249-76-92.googlebot.com
+0 1 1 2156 1 1486419794
+/
+jobqueue-listener.jobqueue.netcraft.com-u5a670327a1094b7eb84489b5ab4d479cu-digitalocean-2gb
+0 1 1 2144 1 1486570936
+/
+msnbot-207-46-13-238.search.msn.com
+0 4 0 832 0 0
+-
+baiduspider-180-76-15-17.crawl.baidu.com
+0 1 1 1515 0 0
+-
+msnbot-207-46-13-207.search.msn.com
+0 3 0 624 0 0
+-
+msnbot-207-46-13-247.search.msn.com
+0 3 0 624 0 0
+-
+msnbot-40-77-167-30.search.msn.com
+0 3 3 6735 2 1487005030
+/
+baiduspider-180-76-15-24.crawl.baidu.com
+0 1 1 2120 1 1486210978
+/
+baiduspider-180-76-15-28.crawl.baidu.com
+0 1 1 2120 1 1486055193
+/
+crawl-66-249-73-29.googlebot.com
+0 1 1 2156 1 1487121873
+/
+crawl-66-249-66-151.googlebot.com
+0 2 1 2328 1 1486275355
+/
+baiduspider-180-76-15-31.crawl.baidu.com
+0 1 0 208 0 0
+-
+baiduspider-180-76-15-6.crawl.baidu.com
+0 2 1 2364 1 1486312365
+/
+crawl-66-249-73-176.googlebot.com
+0 3 2 4174 1 1485953458
+/
+msnbot-207-46-13-225.search.msn.com
+0 3 0 624 0 0
+-
+crawl-b06-s1.orangebot.orange.fr
+0 2 1 2659 1 1486867219
+/
+jobqueue-listener.jobqueue.netcraft.com-udea484c5cad24b7faaca8fa547178665u-digitalocean-2gb
+0 1 1 2156 1 1486350444
+/
+msnbot-207-46-13-6.search.msn.com
+0 3 3 6735 2 1485977965
+/
+msnbot-207-46-13-243.search.msn.com
+0 2 0 416 0 0
+-
+crawl-66-249-66-100.googlebot.com
+0 1 1 2451 1 1486271715
+/
+crawl-66-249-76-19.googlebot.com
+0 1 0 208 0 0
+-
+msnbot-207-46-13-221.search.msn.com
+0 3 0 624 0 0
+-
+138.197.75.230
+0 1 1 2144 1 1486389705
+/
+jobqueue-listener.jobqueue.netcraft.com-u9f9f366b8ad24ac18db8005741f3252bu-digitalocean-2gb
+0 1 1 2156 1 1486572101
+/
+jobqueue-listener.jobqueue.netcraft.com-uf31ade0dd97d4e24a2b883bcb804d7b1u-digitalocean-2gb
+0 1 1 2140 1 1486536015
+/
+crawl-66-249-73-140.googlebot.com
+0 1 1 2140 1 1487095867
+/
+crawl-66-249-66-155.googlebot.com
+0 1 0 208 0 0
+-
+crawl-66-249-65-87.googlebot.com
+0 2 1 1723 0 0
+-
+baiduspider-180-76-15-138.crawl.baidu.com
+0 2 1 1723 0 0
+-
+crawl-66-249-73-26.googlebot.com
+0 2 1 1723 0 0
+-
+b115421.yse.yahoo.net
+0 2 1 2328 1 1486777915
+/
+jobqueue-listener.jobqueue.netcraft.com-ubc32c184b6704f39884a51be2421bb7du-digitalocean
+0 1 1 0 1 1486135051
+/
+baiduspider-180-76-15-145.crawl.baidu.com
+0 2 0 416 0 0
+-
+msnbot-157-55-39-134.search.msn.com
+0 3 3 6420 1 1486658466
+/
+crawl-66-249-79-179.googlebot.com
+0 2 1 1723 0 0
+-
+baiduspider-180-76-15-152.crawl.baidu.com
+0 2 1 2364 1 1486429094
+/
+ec2-54-179-173-141.ap-southeast-1.compute.amazonaws.com
+0 1 1 2120 1 1486930570
+/
+msnbot-207-46-13-149.search.msn.com
+0 5 0 1040 0 0
+-
+crawl-66-249-66-199.googlebot.com
+0 2 2 3655 1 1486263384
+/
+crawl-66-249-65-91.googlebot.com
+0 1 1 2160 1 1487098319
+/
+62.212.73.49
+0 1 1 2120 1 1486819400
+/
+msnbot-207-46-13-219.search.msn.com
+0 3 0 624 0 0
+-
+crawl-66-249-79-172.googlebot.com
+0 1 1 2136 1 1486173331
+/
+spider-141-8-141-141.yandex.com
+0 4 0 834 0 0
+-
+msnbot-207-46-13-228.search.msn.com
+0 2 0 416 0 0
+-
+baiduspider-180-76-15-12.crawl.baidu.com
+0 1 1 2156 1 1487019141
+/
+baiduspider-180-76-15-23.crawl.baidu.com
+0 1 1 2144 1 1486930173
+/
+baiduspider-180-76-15-27.crawl.baidu.com
+0 2 1 2328 1 1486506986
+/
+msnbot-207-46-13-206.search.msn.com
+0 2 0 416 0 0
+-
+msnbot-207-46-13-185.search.msn.com
+0 4 4 8624 4 1486658452
+/
+baiduspider-180-76-15-5.crawl.baidu.com
+0 1 1 1515 0 0
+-
+baiduspider-180-76-15-30.crawl.baidu.com
+0 1 1 2120 1 1487154417
+/
+baiduspider-180-76-15-9.crawl.baidu.com
+0 3 0 624 0 0
+-
+msnbot-207-46-13-255.search.msn.com
+0 2 0 416 0 0
+-
+crawl-66-249-76-116.googlebot.com
+0 2 1 2344 1 1486422834
+/
+173.252.115.12
+0 1 1 2451 1 1486760457
+/
+spider-87-250-244-24.yandex.com
+0 12 1 4744 1 1487130434
+/
+hosted-by.leaseweb.com
+0 2 1 2328 1 1486952113
+/
+msnbot-207-46-13-233.search.msn.com
+0 3 0 624 0 0
+-
+173.252.121.114
+0 1 1 2451 1 1485978506
+/
+proxy-109-190-254-1.ovh.net
+0 32 14 447863 1 1487330076
+/
+msnbot-207-46-13-202.search.msn.com
+0 1 0 208 0 0
+-
+crawl-66-249-66-21.googlebot.com
+0 1 1 2160 1 1486412493
+/
+msnbot-207-46-13-61.search.msn.com
+0 2 2 4312 2 1486840502
+/
+crawl-66-249-76-131.googlebot.com
+0 1 0 208 0 0
+-
+msnbot-207-46-13-251.search.msn.com
+0 1 0 208 0 0
+-
+202.46.51.22
+0 1 1 2144 1 1486578826
+/
+crawl-66-249-66-112.googlebot.com
+0 2 1 2352 1 1486249046
+/
+crawl-66-249-76-86.googlebot.com
+0 1 1 2451 1 1486418265
+/
+crawl-66-249-76-109.googlebot.com
+0 1 1 2120 1 1486428118
+/
+jobqueue-listener.jobqueue.netcraft.com-ub49776284e3d49eb9d83aec5a20be2f0u-digitalocean-2gb
+0 1 1 2144 1 1486603960
+/
+crawl-66-249-73-130.googlebot.com
+0 2 1 1723 0 0
+-
+crawl-66-249-76-90.googlebot.com
+0 3 1 2560 1 1486424449
+/
+msnbot-157-55-39-32.search.msn.com
+0 9 9 19260 3 1486226739
+/
+msnbot-157-55-39-195.search.msn.com
+0 6 6 12840 2 1486840581
+/
+baiduspider-180-76-15-144.crawl.baidu.com
+0 2 2 4260 2 1487226605
+/
+baiduspider-180-76-15-148.crawl.baidu.com
+0 1 1 2120 1 1486798279
+/
+crawl-66-249-66-167.googlebot.com
+0 2 2 3659 1 1486409424
+/
+baiduspider-180-76-15-151.crawl.baidu.com
+0 1 1 2140 1 1487222605
+/
+crawl-66-249-66-98.googlebot.com
+0 1 0 208 0 0
+-
+baiduspider-180-76-15-159.crawl.baidu.com
+0 1 0 208 0 0
+-
+vs551.server4u.cz
+0 2 0 421 1 1486032930
+-
+jobqueue-listener.jobqueue.netcraft.com-u0185711fe96140c8acb6d9f2be65ce95u-digitalocean
+0 1 1 0 1 1486132397
+/
+crawl-66-249-79-169.googlebot.com
+0 1 0 208 0 0
+-
+crawl-66-249-66-80.googlebot.com
+0 2 2 3671 1 1486251784
+/
+crawl-66-249-79-151.googlebot.com
+0 2 1 1723 0 0
+-
+msnbot-207-46-13-197.search.msn.com
+0 2 0 416 0 0
+-
+ec2-54-237-246-215.compute-1.amazonaws.com
+0 1 1 2120 1 1486990613
+/
+baiduspider-180-76-15-11.crawl.baidu.com
+0 1 0 208 0 0
+-
+baiduspider-180-76-15-15.crawl.baidu.com
+0 3 1 2867 1 1486117135
+/
+baiduspider-180-76-15-19.crawl.baidu.com
+0 1 1 1515 0 0
+-
+msnbot-207-46-13-227.search.msn.com
+0 2 0 416 0 0
+-
+crawl-66-249-79-173.googlebot.com
+0 1 1 2160 1 1486161791
+/
+msnbot-207-46-13-166.search.msn.com
+0 1 1 1515 0 0
+-
+jobqueue-listener.jobqueue.netcraft.com-uf8c413f428074247ae7322aed32d4ac9u-digitalocean-2gb
+0 1 1 2140 1 1486318652
+/
+baiduspider-180-76-15-22.crawl.baidu.com
+0 1 1 2144 1 1486743802
+/
+baiduspider-180-76-15-26.crawl.baidu.com
+0 1 1 2451 1 1487341832
+/
+baiduspider-180-76-15-33.crawl.baidu.com
+0 2 1 2344 1 1486197275
+/
+baiduspider-180-76-15-8.crawl.baidu.com
+0 2 1 2328 1 1486840003
+/
+msnbot-207-46-13-205.search.msn.com
+0 1 0 208 0 0
+-
+msnbot-207-46-13-245.search.msn.com
+0 1 0 208 0 0
+-
+crawl-66-249-79-111.googlebot.com
+0 2 1 1723 0 0
+-
+138.197.76.114
+0 1 1 2136 1 1486639788
+/
+b115398.yse.yahoo.net
+0 1 0 208 0 0
+-
+61.100.9.212
+0 1 1 2451 1 1487104828
+/
+msnbot-207-46-13-254.search.msn.com
+0 1 0 208 0 0
+-
+msnbot-157-55-39-79.search.msn.com
+0 2 2 4312 2 1486311531
+/
+msnbot-207-46-13-33.search.msn.com
+0 17 17 36384 6 1487440424
+/
+msnbot-207-46-13-223.search.msn.com
+0 2 0 416 0 0
+-
+ec2-52-62-168-32.ap-southeast-2.compute.amazonaws.com
+0 1 1 2120 1 1486608371
+/
+msnbot-207-46-13-232.search.msn.com
+0 1 0 208 0 0
+-
+crawl-66-249-76-128.googlebot.com
+0 1 1 2140 1 1486410964
+/
+msnbot-207-46-13-11.search.msn.com
+0 6 6 12840 2 1486396408
+/
+crawl-66-249-76-110.googlebot.com
+0 1 0 208 0 0
+-
+114.246.72.118
+0 1 1 2120 1 1486382662
+/
+104.131.98.180
+0 1 1 2451 1 1486397700
+/
+jobqueue-listener.jobqueue.netcraft.com-uaba2053ae113496bab0ec6c62a404f12u-digitalocean-2gb
+0 1 1 2144 1 1486347991
+/
+crawl-66-249-79-104.googlebot.com
+0 1 0 208 0 0
+-
+host-217-196-134-190.net.techdigital.it
+0 1 1 2120 1 1487295254
+/
+c7.ib83js.me
+0 2 2 4571 1 1486293201
+/
+crawl-b02-s4.orangebot.orange.fr
+0 2 1 2352 1 1487125450
+/
+199.58.86.209
+0 2 1 2328 1 1486260050
+/
+msnbot-157-55-39-185.search.msn.com
+0 3 3 6468 3 1487440418
+/
+baiduspider-180-76-15-143.crawl.baidu.com
+0 3 1 2556 1 1487354841
+/
+baiduspider-180-76-15-147.crawl.baidu.com
+0 2 1 2352 1 1486250260
+/
+baiduspider-180-76-15-150.crawl.baidu.com
+0 1 1 2120 1 1486464792
+/
+crawl-66-249-66-77.googlebot.com
+0 1 0 208 0 0
+-
+baiduspider-180-76-15-161.crawl.baidu.com
+0 4 2 4700 2 1487115127
+/
+spider-87-250-244-1.yandex.com
+0 2 0 417 0 0
+-
+crawl-66-249-73-232.googlebot.com
+0 3 2 3859 1 1487124312
+/
+crawl-66-249-79-159.googlebot.com
+0 1 1 2120 1 1486154055
+/
+e3daed78-f25c-4667-bb2d-92571e495931.node.dockerapp.io
+0 3 3 110101 1 1486159456
+/
+msnbot-207-46-13-208.search.msn.com
+0 1 0 208 0 0
+-
+baiduspider-180-76-15-10.crawl.baidu.com
+0 3 1 1931 0 0
+-
+msnbot-207-46-13-217.search.msn.com
+0 3 0 624 0 0
+-
+jobqueue-listener.jobqueue.netcraft.com-u8b159519e1f54be680a7278bd4a8365cu-digitalocean
+0 1 1 0 1 1486132914
+/
+msnbot-157-55-39-251.search.msn.com
+0 2 0 416 0 0
+-
+msnbot-157-55-39-150.search.msn.com
+0 15 15 33372 11 1486329054
+/
+msnbot-40-77-167-40.search.msn.com
+0 3 3 6420 1 1486482590
+/
+baiduspider-180-76-15-21.crawl.baidu.com
+0 1 1 2140 1 1486793286
+/
+crawl-66-249-66-172.googlebot.com
+0 2 1 2352 1 1486261271
+/
+msnbot-207-46-13-226.search.msn.com
+0 1 0 208 0 0
+-
+msnbot-207-46-13-85.search.msn.com
+0 1 1 2156 1 1485972808
+/
+msnbot-207-46-13-235.search.msn.com
+0 2 0 416 0 0
+-
+msnbot-207-46-13-134.search.msn.com
+0 1 1 2156 1 1486141212
+/
+138.197.66.16
+0 1 1 2136 1 1486405330
+/
+crawl-66-249-79-119.googlebot.com
+0 1 1 2140 1 1486166630
+/
+crawl-66-249-66-194.googlebot.com
+0 1 0 208 0 0
+-
+msnbot-207-46-13-204.search.msn.com
+0 1 0 208 0 0
+-
+crawl-66-249-66-110.googlebot.com
+0 1 1 2144 1 1486249045
+/
+crawl-66-249-76-84.googlebot.com
+0 1 0 208 0 0
+-
+www.whois.sc
+0 2 1 2659 1 1487377069
+/
+crawl-66-249-76-151.googlebot.com
+0 3 2 3863 1 1486430595
+/
+msnbot-207-46-13-213.search.msn.com
+0 2 0 416 0 0
+-
+crawl-66-249-79-112.googlebot.com
+0 2 2 3966 1 1486149795
+/
+jobqueue-listener.jobqueue.netcraft.com-u1fcbd305be0f4343a34c9b6762a472efu-digitalocean-2gb
+0 1 1 2140 1 1486571229
+/
+msnbot-207-46-13-222.search.msn.com
+0 2 0 416 0 0
+-
+crawl-66-249-76-107.googlebot.com
+0 1 1 1515 0 0
+-
+msnbot-207-46-13-231.search.msn.com
+0 4 0 832 0 0
+-
+msnbot-207-46-13-130.search.msn.com
+0 21 19 42340 15 1487462382
+/
+msnbot-157-55-39-96.search.msn.com
+0 1 1 2156 1 1487005051
+/
+jobqueue-listener.jobqueue.netcraft.com-uf852615fda294ebb969c8b5f03fd6846u-digitalocean-2gb
+0 1 1 2140 1 1486577121
+/
+crawl-66-249-73-168.googlebot.com
+0 1 0 208 0 0
+-
+msnbot-207-46-13-240.search.msn.com
+0 3 0 624 0 0
+-
+crawl-66-249-76-111.googlebot.com
+0 1 1 2144 1 1486442816
+/
+138.197.68.12
+0 1 1 2451 1 1486625159
+/
+190.143.96.233
+0 2 0 421 1 1486538006
+-
+crawl-66-249-79-167.googlebot.com
+0 1 1 1515 0 0
+-
+msnbot-40-77-167-47.search.msn.com
+0 27 26 57746 19 1486927726
+/
+138.197.70.109
+0 1 1 2140 1 1486357416
+/
+crawl-66-249-73-172.googlebot.com
+0 2 2 3966 1 1487104254
+/
+msnbot-157-55-39-126.search.msn.com
+0 3 3 6420 1 1486573223
+/
+msnbot-157-55-39-12.search.msn.com
+0 2 2 4312 2 1487173984
+/
+baiduspider-180-76-15-139.crawl.baidu.com
+0 2 1 2352 1 1486574826
+/
+crawl-66-249-66-114.googlebot.com
+0 1 1 1515 0 0
+-
+crawl-b05-s5.orangebot.orange.fr
+0 2 1 2348 1 1486168175
+/
+# End Of Table - sites (monthly)
+# -sites- (daily)
+msnbot-207-46-13-199.search.msn.com
+0 1 0 208 0 0
+-
+msnbot-207-46-13-225.search.msn.com
+0 1 0 208 0 0
+-
+msnbot-207-46-13-33.search.msn.com
+0 2 2 4284 1 1487440424
+/
+msnbot-157-55-39-185.search.msn.com
+0 1 1 2156 1 1487440418
+/
+msnbot-207-46-13-235.search.msn.com
+0 1 0 208 0 0
+-
+www.whois.sc
+0 2 1 2659 1 1487377069
+/
+msnbot-207-46-13-231.search.msn.com
+0 1 0 208 0 0
+-
+msnbot-207-46-13-130.search.msn.com
+0 2 2 4288 2 1487462382
+/
+msnbot-207-46-13-240.search.msn.com
+0 1 0 208 0 0
+-
+# End Of Table - sites (daily)
+# -referrers- 
+- (Direct Request)
+0 407
+http://jetaim.eu/css/youte.css
+0 2
+http://anakin.jetaim.eu/
+0 3
+http://simon.jetaim.eu/css/youte.css
+0 1
+http://alexandre.jetaim.eu/
+0 1
+http://anakin.jetaim.eu/css/youte.css
+0 1
+http://whois.domaintools.com/jetaim.eu
+0 1
+http://jetaim.eu/
+0 6
+http://jules.jetaim.eu/
+0 2
+http://www.jetaim.de
+0 1
+http://christelle.jetaim.eu/
+0 1
+http://rose.jetaim.eu/
+0 1
+http://simon.jetaim.eu/
+0 3
+http://www.netcraft.com/survey/
+0 3
+http://xavier.jetaim.eu/
+0 1
+http://flore.jetaim.eu/
+0 2
+http://www.jetaim.eu/
+0 2
+# End Of Table - referrers
+# -agents- 
+Java/1.8.0_111
+0 1
+Mozilla/5.0 (iPhone; CPU iPhone OS 7_0 like Mac OS X) AppleWebKit/537.51.1 (KHTML, like Gecko) Version/7.0 Mobile/11A465 Safa
+0 4
+Mozilla/5.0 (compatible; Baiduspider/2.0; +http://www.baidu.com/search/spider.html)
+0 30
+Mozilla/5.0 (Windows; U; Windows NT 5.1; en; rv:1.9.0.13) Gecko/2009073022 Firefox/3.5.2 (.NET CLR 3.5.30729) SurveyBot/2.3 (
+0 2
+Mozilla/5.0 (compatible; MJ12bot/v1.4.7; http://mj12bot.com/)
+0 4
+Mozilla/5.0 (compatible; YandexBot/3.0; +http://yandex.com/bots)
+0 18
+Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.2454.93 Safari/537.36
+0 1
+Mozilla/5.0 (compatible; OrangeBot/2.0; support.orangebot@orange.com)
+0 6
+Mozilla/5.0 (Windows NT 10.0; WOW64; Trident/7.0; rv:11.0) like Gecko
+0 1
+Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10.6; fr; rv:1.9.2.8) Gecko/20100722 Firefox/3.6.8
+0 4
+Mozilla/5.0 (Windows; U; Windows NT 5.1; ko; rv:1.8.0.3) Gecko/20060426 Firefox/1.5.0.3
+0 1
+Mozilla/5.0 (X11; Linux x86_64; rv:38.0) Gecko/20100101 Firefox/38.0
+0 32
+Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)
+0 58
+Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/44.0.2403.125 Safari/537.36
+0 1
+Mozilla/5.0 (Linux; Android 6.0.1; Nexus 5X Build/MMB29P) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2272.96 Mobile S
+0 12
+Mozilla/4.0 (compatible; Netcraft Web Server Survey)
+0 3
+Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko; Google Web Preview Analytics) Chrome/27.0.1453 Safari/537.36 (compatible; 
+0 2
+python-requests/2.3.0 CPython/3.4.0 Linux/4.4.35-33.55.amzn1.x86_64
+0 1
+Mozilla/5.0 (Windows NT 5.1; rv:6.0.2) Gecko/20100101 Firefox/6.0.2
+0 24
+Mozilla/5.0 (compatible; bingbot/2.0; +http://www.bing.com/bingbot.htm)
+0 206
+Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/37.0.2062.120 Safari/537.36
+0 3
+Mozilla/5.0 (compatible; NetcraftSurveyAgent/1.0; +info@netcraft.com)
+0 15
+Mozilla/5.0 (Windows; U; Windows NT 6.0; en-US; rv:1.9.2.3) Gecko/20100401 Firefox/3.6.3 GTB6 (.NET CLR 3.5.30729)
+0 1
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/51.0.2725.53 Safari/537.36
+0 1
+Mozilla/5.0 (compatible; Yahoo! Slurp; http://help.yahoo.com/help/us/ysearch/slurp)
+0 3
+Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/52.0.2743.116 Safari/537.36
+0 2
+# End Of Table - agents
+# -search strings- 
+# End Of Table - search strings
+# -usernames- 
+# End Of Table - usernames
