@@ -15,7 +15,7 @@
 <body>
 <?php
 $nom = $_POST['nom'];
-if (!$nom) {
+if (strlen($nom)>0) {
 	$nom = trim($nom);
 	$nom = str_replace(' ', '_', $nom);
 	$nom = str_replace("'",".", $nom);
