@@ -78,7 +78,7 @@
                         ?>
                         <div id='div-int-m'>
                         <?php
-                            echo "Je t'aime $nom1";
+                            echo "Je t'aime pas $nom1";
                         ?>
                             </div>
                         <?php
