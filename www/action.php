@@ -15,17 +15,34 @@
 <body>
 <?php
 $nom = $_POST['nom'];
-if (strlen($nom)>0) {
-	$nom = trim($nom);
-	$nom = str_replace(' ', '_', $nom);
-	$nom = str_replace("'",".", $nom);
-	$nom = idn_to_ascii($nom);
-	//$nom=htmlentities($nom, ENT_QUOTES, "UTF-8");
-	$redirection = "location: http://$nom.jetaim.eu/";
-}
+
+if ($_post['valid']="je t'aime") {
+	if (strlen($nom)>0) {
+		$nom = trim($nom);
+		$nom = str_replace(' ', '_', $nom);
+		$nom = str_replace("'",".", $nom);
+		$nom = idn_to_ascii($nom);
+		//$nom=htmlentities($nom, ENT_QUOTES, "UTF-8");
+		$redirection = "location: http://$nom.jetaim.eu/";
+	}
+	else
+	{
+		$redirection = "location: http://jetaim.eu";
+	}
 else
 {
-	$redirection = "location: http://jetaim.eu";
+	if (strlen($nom)>0) {
+		$nom = trim($nom);
+		$nom = str_replace(' ', '_', $nom);
+		$nom = str_replace("'",".", $nom);
+		$nom = idn_to_ascii($nom);
+		//$nom=htmlentities($nom, ENT_QUOTES, "UTF-8");
+		$redirection = "location: http://$nom.jetaim.eu/pas";
+	}
+	else
+	{
+		$redirection = "location: http://jetaim.eu/pas";
+	}
 }
 header($redirection);
 ?>    
