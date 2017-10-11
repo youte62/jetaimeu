@@ -117,7 +117,7 @@
 		else
 		{
 			 ?>
-			Copier le lien suivant : <a href="http://<?php echo "$nom2.jetaim.eu/pas"; ?>">http://<?php echo "$nom2.jetaim.eu"; ?></a> <br/> 
+			Copier le lien suivant : <a href="http://<?php echo "jetaim.eu/pas"; ?>">http://<?php echo "jetaim.eu"; ?></a> <br/> 
 			Et donnez le à la bonne personne !<br/>
 			<?php		
 		
