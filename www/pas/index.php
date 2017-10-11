@@ -29,9 +29,10 @@
         <div id='div-inb'>
             <div id='div-int'>
                 <?php
-                $nom = idn_to_utf8(substr($_SERVER['HTTP_HOST'],0,-10));
-                    if (($nom != "www")) {
-			if ($nom == "hitler") $nom="connard";
+                
+                    if (($nom != "www") or (!$nom)) {
+						$nom = idn_to_utf8(substr($_SERVER['HTTP_HOST'],0,-10));
+						if ($nom == "hitler") $nom="connard";
                         $nom2 = $nom;
                         $nom = str_replace('_', ' ', $nom); 
                         $lgt= strlen($nom);
@@ -106,7 +107,7 @@
     <div id='div-footer'>
         <?php
         if (($nom != "www") or (!$nom)) { ?>
-        Copier le lien suivant : <a href="http://<?php echo "$nom2.jetaim.eu"; ?>">http://<?php echo "$nom2.jetaim.eu"; ?></a> <br/> 
+        Copier le lien suivant : <a href="http://<?php echo "$nom2.jetaim.eu/pas"; ?>">http://<?php echo "$nom2.jetaim.eu"; ?></a> <br/> 
 	Et donnez le à la bonne personne !<br/>
         Dites lui je t'aime à votre tour:<br/>
         <a href='http://www.jetaim.eu'> www.jetaim.eu</a>
