@@ -29,14 +29,14 @@
         <div id='div-inb'>
             <div id='div-int'>
                 <?php
-                
-                    if (($nom != "www") or (!$nom)) {
-						$nom = idn_to_utf8(substr($_SERVER['HTTP_HOST'],0,-10));
-						if ($nom == "hitler") $nom="connard";
-                        $nom2 = $nom;
-                        $nom = str_replace('_', ' ', $nom); 
-                        $lgt= strlen($nom);
-			$nom = str_replace(".","'", $nom);
+                $nom = idn_to_utf8(substr($_SERVER['HTTP_HOST'],0,-10));
+             if (($nom != "www") or (!$nom)) {
+				
+				if ($nom == "hitler") $nom="connard";
+                $nom2 = $nom;
+                $nom = str_replace('_', ' ', $nom); 
+                $lgt= strlen($nom);
+				$nom = str_replace(".","'", $nom);
 				$lgptmax=strlen($nom);
 				$phrase = explode(" ", $nom);
 				$xmax=count($phrase);
@@ -60,32 +60,32 @@
                 	                                        $nom1= $nom1.$phrase[$x]." ";
                         	                                $nomx= $nom1.$phrase[$x];
                                 	                        $lgpt = strlen($nomx);
-						}
+												}
 							$nom1=$nom1."</br>";
 							$x++;
-							}
-					if ((($x+1) != $xmax) || ($lgptmax > 19)) $nom1= $nom1.$phrase[$x]." ";
-					$x++;
+						}
+						if ((($x+1) != $xmax) || ($lgptmax > 19)) $nom1= $nom1.$phrase[$x]." ";
+						$x++;
 
 					}
 
 				}
-			else
+				else
 				{
 				$nom1= ucfirst($nom1);
 				}
 
 
-                        ?>
-                        <div id='div-int-m'>
-                        <?php
-                            echo "Je t'aime pas $nom1";
-                        ?>
-                            </div>
-                        <?php
-                    }
-                    else {
-                        ?>
+                ?>
+                <div id='div-int-m'>
+                <?php
+                    echo "Je t'aime pas $nom1";
+                ?>
+                </div>
+                <?php
+            }
+            else {
+                ?>
                         <div id='div-int-www'>
                         Vous souhaitez lui dire je t'aime ? <br />
                         Mettez alors ici son prénom !<br />
@@ -99,7 +99,7 @@
                         </div>
                         <?php
 
-                    }
+            }
                 ?>
             </div>
         </div>
