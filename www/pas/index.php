@@ -110,7 +110,7 @@
 		if (strlen($nom)>0) {
 			
 			 ?>
-			Copier le lien suivant : <a href="http://<?php echo "$nom2.jetaim.eu/pas"; ?>">http://<?php echo "$nom2.jetaim.eu"; ?></a> <br/> 
+			Copier le lien suivant : <a href="http://<?php echo "$nom2.jetaim.eu/pas"; ?>">http://<?php echo "$nom2.jetaim.eu/pas"; ?></a> <br/> 
 			Et donnez le à la bonne personne !<br/>
 			<?php
 		}
