@@ -106,8 +106,8 @@
     </div>
     <div id='div-footer'>
         <?php
-        if (($nom != "www") or (!$nom)) {
-		if (strlen($nom2)>0) {
+        if (($nom != "www")) {
+		if (strlen($nom)>0) {
 			
 			 ?>
 			Copier le lien suivant : <a href="http://<?php echo "$nom2.jetaim.eu/pas"; ?>">http://<?php echo "$nom2.jetaim.eu"; ?></a> <br/> 
