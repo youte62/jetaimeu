@@ -1,3 +1,4 @@
+// pour quentin j'ai remis le fichier d'origine en attendant car ca foire avec ton code :D
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head>
 <link rel="stylesheet" type="text/css" media="screen" href="/css/youte.css" />
@@ -14,22 +15,18 @@
 <body>
 <?php
 $nom = $_POST['nom'];
-$nom = trim($nom);
-$nom = str_replace(' ', '_', $nom);
-$nom = str_replace("'",".", $nom);
-$nom = idn_to_ascii($nom);
-//$nom=htmlentities($nom, ENT_QUOTES, "UTF-8");
-
-
-if ($_POST['valid']== "ou pas"){
-$redirection = "location: http://$nom.jetaim.eu/pas";
+if (strlen($nom)>0) {
+	$nom = trim($nom);
+	$nom = str_replace(' ', '_', $nom);
+	$nom = str_replace("'",".", $nom);
+	$nom = idn_to_ascii($nom);
+	//$nom=htmlentities($nom, ENT_QUOTES, "UTF-8");
+	$redirection = "location: http://$nom.jetaim.eu/pas";
 }
 else
 {
-$redirection = "location: http://$nom.jetaim.eu";
+	$redirection = "location: http://jetaim.eu/pas";
 }
-
-
 header($redirection);
 ?>    
 </body>
