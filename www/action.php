@@ -16,7 +16,7 @@
 <?php
 $nom = $_POST['nom'];
 
-if ($_post['valid']="je t'aime") {
+if ($_post['valid']="Je t'aime") {
 	if (strlen($nom)>0) {
 		$nom = trim($nom);
 		$nom = str_replace(' ', '_', $nom);

@@ -94,7 +94,7 @@
                         Et à l'envoyer à votre moitié.
                         <form action="action.php" method="post">
                         <p><input type="text" name="nom" /></p>
-                        <p><input type="submit" value="je t'aime" name="valid"><input type="submit" value="ou pas" name="valid"></p>
+                        <p><input type="submit" value="Je t'aime" name="valid"><input type="submit" value="ou pas" name="valid"></p>
                         </form>
                         </div>
                         <?php
