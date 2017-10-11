@@ -21,7 +21,7 @@ if (strlen($nom)>0) {
 	$nom = str_replace("'",".", $nom);
 	$nom = idn_to_ascii($nom);
 	//$nom=htmlentities($nom, ENT_QUOTES, "UTF-8");
-	$redirection = "location: http://$nom.jetaim.eu/pas";
+	$redirection = "location: http://$nom.jetaim.eu/";
 }
 else
 {
