@@ -1,6 +1,6 @@
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head>
-<link rel="stylesheet" type="text/css" media="screen" href="/css/youte.css" />
+<link rel="stylesheet" type="text/css" media="screen" href="/pas/css/youte.css" />
  
 <link href='http://fonts.googleapis.com/css?family=Dancing+Script:700' rel='stylesheet' type='text/css'>
 
