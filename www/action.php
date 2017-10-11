@@ -25,7 +25,7 @@ if (strlen($nom)>0) {
 }
 else
 {
-	$redirection = "location: http://jetaim.eu/pas";
+	$redirection = "location: http://jetaim.eu";
 }
 header($redirection);
 ?>    
