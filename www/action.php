@@ -29,6 +29,7 @@ if ($_post['valid']="je t'aime") {
 	{
 		$redirection = "location: http://jetaim.eu";
 	}
+}
 else
 {
 	if (strlen($nom)>0) {
