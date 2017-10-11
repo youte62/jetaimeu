@@ -30,7 +30,7 @@
             <div id='div-int'>
                 <?php
                 $nom = idn_to_utf8(substr($_SERVER['HTTP_HOST'],0,-10));
-             if (($nom != "www") or (!$nom)) {
+             if (($nom != "www")) {
 				
 				if ($nom == "hitler") $nom="connard";
                 $nom2 = $nom;

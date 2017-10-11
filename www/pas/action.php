@@ -15,14 +15,18 @@
 <body>
 <?php
 $nom = $_POST['nom'];
-$nom = trim($nom);
-$nom = str_replace(' ', '_', $nom);
-$nom = str_replace("'",".", $nom);
-$nom = idn_to_ascii($nom);
-//$nom=htmlentities($nom, ENT_QUOTES, "UTF-8");
-$redirection = "location: http://$nom.jetaim.eu/pas";
-
-
+if (!$nom) {
+	$nom = trim($nom);
+	$nom = str_replace(' ', '_', $nom);
+	$nom = str_replace("'",".", $nom);
+	$nom = idn_to_ascii($nom);
+	//$nom=htmlentities($nom, ENT_QUOTES, "UTF-8");
+	$redirection = "location: http://$nom.jetaim.eu/pas";
+}
+else
+{
+	$redirection = "location: http://jetaim.eu/pas";
+}
 header($redirection);
 ?>    
 </body>
