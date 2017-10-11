@@ -106,9 +106,23 @@
     </div>
     <div id='div-footer'>
         <?php
-        if (($nom != "www") or (!$nom)) { ?>
-        Copier le lien suivant : <a href="http://<?php echo "$nom2.jetaim.eu/pas"; ?>">http://<?php echo "$nom2.jetaim.eu"; ?></a> <br/> 
-	Et donnez le à la bonne personne !<br/>
+        if (($nom != "www") or (!$nom)) {
+		if (strlen($nom2)>0) {
+			
+			 ?>
+			Copier le lien suivant : <a href="http://<?php echo "$nom2.jetaim.eu/pas"; ?>">http://<?php echo "$nom2.jetaim.eu"; ?></a> <br/> 
+			Et donnez le à la bonne personne !<br/>
+			<?php
+		}
+		else
+		{
+			 ?>
+			Copier le lien suivant : <a href="http://<?php echo "$nom2.jetaim.eu/pas"; ?>">http://<?php echo "$nom2.jetaim.eu"; ?></a> <br/> 
+			Et donnez le à la bonne personne !<br/>
+			<?php		
+		
+		}
+		?>
         Dites lui je t'aime à votre tour:<br/>
         <a href='http://www.jetaim.eu'> www.jetaim.eu</a>
         <?php
